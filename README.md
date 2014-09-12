@@ -10,4 +10,5 @@
 irc.mozilla.org #devtools
 [Chris Wilson's Vocoder](https://github.com/cwilso/vocoder)
 [Jamison Dance's Drum Machine](https://github.com/jergason/react-webaudio-drum-machine)
+[Jaume Sanchez Elias's Web Audio Debugging Hook](www.clicktorelease.com/tmp/wa-hook/)
                         
